@@ -21,8 +21,6 @@
 
 ## 🛠 Tech Arsenal
 
-## ⚔️ Tech Arsenal
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,php,laravel,mysql,git,github,vscode" />
 </p>
