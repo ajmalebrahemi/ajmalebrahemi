@@ -21,8 +21,14 @@
 
 ## 🛠 Tech Arsenal
 
+## ⚔️ Tech Arsenal
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,php,laravel,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-AI%20Code%20Editor-black?style=for-the-badge" />
 </p>
 
 ---
