@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Ajmal Ebrahemi</h1>
 
-<!--
-**ajmalebrahemi/ajmalebrahemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Web Developer | Laravel Developer | Front-End Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Web Development and building modern web applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Laravel
+- 💻 Web Developer
+- 📚 Interested in Software Development
+- 🎯 Goal: Become a Professional Full-Stack Developer
+
+---
+
+## 🛠 Skills
+
+HTML | CSS | JavaScript | Bootstrap | PHP | Laravel | MySQL | Git | GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Ajmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmalebrahemi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalebrahemi&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- YouTube
+- Facebook
+- Instagram
